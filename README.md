@@ -30,7 +30,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 ## Evaluation Metrics
 1. The model performance for testing set
 --------------------------------------
-MAE is 0.09414065471162783
-MSE is 0.0177655070285663
-R2 score is 0.8921299463175346
+* MAE is 0.09414065471162783
+* MSE is 0.0177655070285663
+* R2 score is 0.8921299463175346
 
